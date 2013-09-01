@@ -1,0 +1,2 @@
+import dayzlivemap
+dayzlivemap.run()
